@@ -1,10 +1,3 @@
-# Simple README for Freshers - Easy to Understand
-
-Copy and paste this into your `README.md` file:
-
----
-
-```markdown
 # My First Next.js Project - Day 1
 
 Hey everyone! 👋 This is my first project learning Next.js. I built this in one day to understand how Next.js works.
